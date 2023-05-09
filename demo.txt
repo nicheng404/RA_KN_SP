@@ -1,0 +1,10 @@
+wc2.1_2.5m_bio_2
+wc2.1_2.5m_bio_3
+wc2.1_2.5m_bio_4
+wc2.1_2.5m_bio_5
+
+wc2.1_2.5m_tavg_02
+wc2.1_2.5m_tavg_03
+wc2.1_2.5m_tavg_04
+wc2.1_2.5m_tavg_05
+
